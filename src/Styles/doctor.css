@@ -1,0 +1,102 @@
+
+  .ts{
+  position: absolute;
+  top: 40%;
+  left: 40%;
+
+
+  } 
+  .nametag{
+    padding-top: 2rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .puidInput{
+    width: 250px; /* Set the desired width of the text input box */
+    padding: 10px; /* Add padding for spacing */
+    font-size: 12px;
+  }
+ .puid{
+    display: flex;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    
+  }
+
+ .pname{
+  margin-top: 2%;
+  padding-right: 0.5cm;
+ }
+
+ .doctorUid{
+  display: flex;
+  position: absolute;
+  top: 10%;
+  left: 40%;
+  width: 250px; /* Set the desired width of the text input box */
+  padding: 10px; /* Add padding for spacing */
+  font-size: 16px;
+ }
+
+ .patientAge{
+  display: flex;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+ }
+ .puidAge{
+  width: 250px; /* Set the desired width of the text input box */
+  padding: 10px; /* Add padding for spacing */
+  font-size: 12px;
+ }
+
+ .patientSymtoms{
+  display: flex;
+  position: absolute;
+  top: 10%;
+  left: 70%;
+  width: 250px; /* Set the desired width of the text input box */
+  padding: 10px; /* Add padding for spacing */
+  font-size: 12px;
+ }
+ .doctorUidBOx {
+  width: 300px; 
+  padding: 10px; 
+  font-size: 16px;
+ }
+ .PatientBox{
+  width: 300px; 
+  padding: 10px; 
+  font-size: 16px;
+ }
+.dropBox{
+  width: 200px;
+  height: 40px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+ .patientIllness{
+  display: flex;
+  position: absolute;
+  top: 20%;
+  width: 250px; /* Set the desired width of the text input box */
+  padding: 10px; /* Add padding for spacing */
+  font-size: 12px;
+  left: 70%
+ }
+ .submitBtn {
+
+  position: absolute;
+  top: 90%;
+  left: 40%;
+  border-radius: 25px;  
+  background-color: #4F81BD;  
+  color:#FFFFFF;  
+  text-align :center;  
+  font-family:arial, helvetica, sans-serif;  
+  padding: 5px 10px 10px 10px;  
+  font-weight:bold;  
+  width:150px;  
+  height:30px;
+}
